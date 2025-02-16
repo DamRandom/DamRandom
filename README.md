@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/DamRandom/DamRandom/output/snake.svg" alt="Snake animation" />
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/damian-brito-5437a2214/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=3d82dc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
@@ -21,7 +17,6 @@
 
 <h1 align="center" style="color:#3d82dc;">Hey there 👋</h1>
 
----
 
 <h3 align="left" style="color:#3d82dc;">👨‍💻 About Me</h3>
 
@@ -35,22 +30,6 @@ I'm Damian Brito, a Frontend Developer passionate about crafting elegant and fun
 ---
 
 <h3 align="left" style="color:#3d82dc;">🛠 Language and Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
-</div>
 
 <div>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
