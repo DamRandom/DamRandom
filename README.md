@@ -41,7 +41,7 @@ I'm Damian Brito, a Frontend Developer passionate about crafting elegant and fun
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://shuffle.dev/components/tailwind/all/logo-clouds" height="40" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" />
   <img width="12" />
@@ -54,6 +54,6 @@ I'm Damian Brito, a Frontend Developer passionate about crafting elegant and fun
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=DamRandom&theme=github-dark" height="220" alt="streak graph" />
+    <img src="https://streak-stats.demolab.com?user=DamRandom&theme=github-dark-blue&hide_border=true" height="220" alt="streak graph" />
   </a>
 </div>
