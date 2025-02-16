@@ -1,52 +1,36 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/damian-brito-5437a2214/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=3d82dc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/dam_random/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=3d82dc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
   <a href="mailto:britohdamian@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=3d82dc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
   <a href="https://t.me/Souta_Kirisawa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088CC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=3d82dc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram" />
   </a>
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DamRandom.DamRandom"  />
-</div>
+<h1 align="center" style="color:#3d82dc;">Hey there 👋</h1>
 
-###
+---
 
-<h1 align="center">Hey there 👋</h1>
+<h3 align="left" style="color:#3d82dc;">👨‍💻 About Me</h3>
 
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
-
-<p align="left">
+<p align="left" style="color:#ffffff;">
 I'm Damian Brito, a Frontend Developer passionate about crafting elegant and functional interfaces.<br><br>
 - 🔭 I’m currently working with **React, Next.js, and TailwindCSS**.<br>
 - 📚 I'm constantly exploring new frontend technologies and improving UI/UX skills.<br>
 - ⚡ In my free time, I enjoy experimenting with creative designs and animations.
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Language and Tools</h3>
-
-###
+<h3 align="left" style="color:#3d82dc;">🛠 Language and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
@@ -57,21 +41,17 @@ I'm Damian Brito, a Frontend Developer passionate about crafting elegant and fun
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
+  <img src="https://shuffle.dev/components/tailwind/all/logo-clouds" height="40" alt="TailwindCSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
+<h3 align="left" style="color:#3d82dc;">🔥 My Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DamRandom&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
