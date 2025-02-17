@@ -15,13 +15,13 @@
 
 ---
 
-<h1 align="center" style="color:#3d82dc;">Hey there</h1>
+<h1 align="center" style="color:#181818;">Hey there</h1>
 
-<h3 align="left" style="color:#3d82dc;">About Me</h3>
+<h3 align="left" style="color:#181818;">About Me</h3>
 
 <p align="left" style="color:#ffffff;">
 I'm Damian Brito, a Frontend Developer passionate about building intuitive and efficient user interfaces. I thrive on solving complex problems with clean, maintainable code and delivering engaging digital experiences.<br><br>
-- Currently working with **React, Next.js, and TailwindCSS**.<br>
+- Currently working with <strong>React</strong>, <strong>Next.js</strong>, and <strong>Tailwind</strong>.<br>
 - Always exploring new technologies to refine UI/UX skills.<br>
 - Strong focus on design aesthetics and user experience.<br>
 - Enthusiastic about performance optimization and modern frontend architectures.
@@ -29,7 +29,7 @@ I'm Damian Brito, a Frontend Developer passionate about building intuitive and e
 
 ---
 
-<h3 align="left" style="color:#3d82dc;">Languages and Tools</h3>
+<h3 align="left" style="color:#181818;">Languages and Tools</h3>
 
 <div>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
@@ -56,7 +56,7 @@ I'm Damian Brito, a Frontend Developer passionate about building intuitive and e
 
 ---
 
-<h3 align="left" style="color:#3d82dc;">My Stats</h3>
+<h3 align="left" style="color:#181818;">My Stats</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -66,7 +66,7 @@ I'm Damian Brito, a Frontend Developer passionate about building intuitive and e
 
 ---
 
-<h3 align="left" style="color:#3d82dc;">Let's Connect</h3>
+<h3 align="left" style="color:#181818;">Let's Connect</h3>
 
 <p align="left" style="color:#ffffff;">
 If you're interested in collaborating, discussing a project, or just exchanging ideas, feel free to reach out!
