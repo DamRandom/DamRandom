@@ -56,13 +56,10 @@ I'm Damian Brito, a Frontend Developer passionate about building intuitive and e
 
 ---
 
-<h3 align="left" style="color:#181818;">My Stats</h3>
+### My Stats
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=DamRandom&theme=github-dark-blue&hide_border=true" height="220" alt="streak graph" />
-  </a>
-</div>
+[![streak stats](https://streak-stats.demolab.com?user=DamRandom&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
