@@ -15,23 +15,22 @@
 
 ---
 
-<h1 align="center" style="color:#3d82dc;">Hey there 👋</h1>
+<h1 align="center" style="color:#3d82dc;">Hey there</h1>
 
-<h3 align="left" style="color:#3d82dc;">👨‍💻 About Me</h3>
+<h3 align="left" style="color:#3d82dc;">About Me</h3>
 
 <p align="left" style="color:#ffffff;">
 I'm Damian Brito, a Frontend Developer passionate about building intuitive and efficient user interfaces. I thrive on solving complex problems with clean, maintainable code and delivering engaging digital experiences.<br><br>
-- 🔭 Currently working with **React, Next.js, and TailwindCSS**.<br>
-- 📚 Always exploring new technologies to refine UI/UX skills.<br>
-- 🎨 Strong focus on design aesthetics and user experience.<br>
-- 🚀 Enthusiastic about performance optimization and modern frontend architectures.
+- Currently working with **React, Next.js, and TailwindCSS**.<br>
+- Always exploring new technologies to refine UI/UX skills.<br>
+- Strong focus on design aesthetics and user experience.<br>
+- Enthusiastic about performance optimization and modern frontend architectures.
 </p>
 
 ---
 
-<h3 align="left" style="color:#3d82dc;">🛠 Languages and Tools</h3>
+<h3 align="left" style="color:#3d82dc;">Languages and Tools</h3>
 
-<h4 style="color:#3d82dc;">Frontend</h4>
 <div>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
@@ -39,24 +38,12 @@ I'm Damian Brito, a Frontend Developer passionate about building intuitive and e
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
-</div>
-
-<h4 style="color:#3d82dc;">Styling</h4>
-<div>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/></code>
-</div>
-
-<h4 style="color:#3d82dc;">Backend & Databases</h4>
-<div>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nodejs.png" alt="Node.js" title="Node.js"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-</div>
-
-<h4 style="color:#3d82dc;">Other Tools</h4>
-<div>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
@@ -64,7 +51,7 @@ I'm Damian Brito, a Frontend Developer passionate about building intuitive and e
 
 ---
 
-<h3 align="left" style="color:#3d82dc;">📊 My Stats</h3>
+<h3 align="left" style="color:#3d82dc;">My Stats</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -74,7 +61,7 @@ I'm Damian Brito, a Frontend Developer passionate about building intuitive and e
 
 ---
 
-<h3 align="left" style="color:#3d82dc;">📩 Let's Connect</h3>
+<h3 align="left" style="color:#3d82dc;">Let's Connect</h3>
 
 <p align="left" style="color:#ffffff;">
 If you're interested in collaborating, discussing a project, or just exchanging ideas, feel free to reach out!
