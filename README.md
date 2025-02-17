@@ -56,7 +56,7 @@ I'm Damian Brito, a Frontend Developer passionate about crafting elegant and fun
 
 ---
 
-<h3 align="left" style="color:#3d82dc;">🔥 My Stats</h3>
+<h3 align="left" style="color:#3d82dc;">My Stats</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
