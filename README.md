@@ -58,9 +58,8 @@ I'm Damian Brito, a Frontend Developer passionate about building intuitive and e
 
 ### My Stats
 
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DamRandom)](https://git.io/streak-stats)
-</div>
+
 ---
 
 <h3 align="left" style="color:#181818;">Let's Connect</h3>
